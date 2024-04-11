@@ -117,3 +117,31 @@ button {
     margin-left: auto;
     font-weight: 700;
 }
+
+.cta {
+    padding: 100px 200px;
+}
+
+.cta-info {
+    background-color: #3882F6;
+    padding: 50px 100px;
+    display: flex;
+    border-radius: 10px;
+}
+
+.cta .left {
+    flex: 2;
+    color: #fff;
+}
+
+.cta .right {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cta button {
+    border: 1px solid #fff;
+    padding: 8px 32px;
+}
