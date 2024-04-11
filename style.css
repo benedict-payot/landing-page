@@ -9,6 +9,12 @@ body {
     background-color: #1F2937;
 }
 
+.footer {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+
 .hero {
     display: flex;
     flex: 1;
