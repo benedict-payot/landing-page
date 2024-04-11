@@ -95,3 +95,25 @@ button {
     max-width: 200px;
     text-align: center;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote .saying {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    margin: 0;
+}
+
+.quote .byline {
+    display: flex;
+    margin-left: auto;
+    font-weight: 700;
+}
